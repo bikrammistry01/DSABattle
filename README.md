@@ -237,19 +237,6 @@ This project strengthened understanding of:
 
 ---
 
-# 👨‍💻 Author
-
-### Vivek Kumar Singh
-Full-Stack Development • Real-Time Systems • Competitive Programming
-
-## 🔗 Connect With Me
-
-- **GitHub:** https://github.com/vivekKumarSingh4545
-- **LinkedIn:** https://linkedin.com/in/vivekkumarsingh4545
-- **Portfolio:** https://vivekkumarsingh.vercel.app
-
----
-
 # 📜 License
 
 This project is licensed under the MIT License.
