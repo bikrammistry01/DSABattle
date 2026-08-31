@@ -153,7 +153,7 @@ dsabattle/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/bikrammistry01/DSABattle
+git clone https://github.com/bikrammistry01/DSABattle.git
 cd dsabattle
 ```
 
